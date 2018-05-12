@@ -1,0 +1,32 @@
+_repo: ChitraEin-Spiel-in-einem-Aufzug_44246
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wolff-Merck, Elisabeth
+    gutenberg_agent_id: '42653'
+    url: http://www.gutenberg.org/2009/agents/42653
+covers:
+- cover_type: archival
+  image_path: 44246-h/images/cover_ebook.jpg
+creator:
+  author:
+    agent_name: Tagore, Rabindranath
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '942'
+    url: http://www.gutenberg.org/2009/agents/942
+    wikipedia: http://en.wikipedia.org/wiki/Rabindranath_Tagore
+description: ''
+gutenberg_issued: '2013-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44246'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PK'
+- !lcsh 'Indic drama -- Translations into German'
+title: 'Chitra: Ein Spiel in einem Aufzug'
+url: http://www.gutenberg.org/ebooks/44246
